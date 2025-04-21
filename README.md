@@ -28,7 +28,7 @@ We are building a VR experience in Unreal Engine where a user must pick up color
   - Began work on LaTeX formatting and created demo video
 
 - **Jakob [Last Name]**  
-  (Still pending communication; status of contributions TBD)
+    walked me through a lot.
 
 ## Data Collection Plan
 
