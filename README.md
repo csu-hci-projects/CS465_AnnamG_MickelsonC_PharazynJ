@@ -15,7 +15,7 @@ We are building a VR experience in Unreal Engine where a user must pick up color
 - ○ Prototype not fully polished yet (missing final polish and UX adjustments)  
 - ✗ Subjects have not been run yet  
 - ○ LaTeX paper is in progress  
-- ○ Progress and code discussion videos are being recorded
+- ✓ Progress and code discussion videos are recorded
 
 
 ## Team Contributions
