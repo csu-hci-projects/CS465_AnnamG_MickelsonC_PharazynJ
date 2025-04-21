@@ -26,7 +26,7 @@ We are building a VR experience in Unreal Engine where a user must pick up color
   - Implemented CSV export and time tracking  
   - Began work on LaTeX formatting and created demo video
 
-- **Jakob [Last Name]**  
+- **Jakob Pharazyn**  
     - He walked me through a lot.
     - Will set up randomized object sizing and distance logic  
 
