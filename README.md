@@ -10,7 +10,7 @@ We are building a VR experience in Unreal Engine where a user must pick up color
 
 - ✓ Unreal Blueprint logic implemented for object grabbing, bin detection, and timing (T1/T2)  
 - ✓ Basic test scene built with randomized object generation  
-- ✓ CSV logging system recording S, D, T1, T2 for each interaction  
+- ○  CSV logging system recording S, D, T1, T2 for each interaction  
 - ✓ User instructions and input flow established  
 - ○ Prototype not fully polished yet (missing final polish and UX adjustments)  
 - ✗ Subjects have not been run yet  
@@ -27,7 +27,7 @@ We are building a VR experience in Unreal Engine where a user must pick up color
   - Began work on LaTeX formatting and created demo video
 
 - **Jakob [Last Name]**  
-    - walked me through a lot.
+    - He walked me through a lot.
     - Will set up randomized object sizing and distance logic  
 
 ## Data Collection Plan
@@ -71,7 +71,6 @@ Each trial logs the following:
 ## To Be Completed
 
 - Finalize full VR prototype polish
-- Record final required videos
 - Collect data from test subjects
 - Finish writing and formatting full LaTeX paper
 - Add references (target: 10+ scholarly sources)
