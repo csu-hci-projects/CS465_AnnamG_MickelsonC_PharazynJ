@@ -53,8 +53,8 @@ Each trial logs the following:
 
 ### Video Links
 
-- [Progress Video (Prototype Demo)](LINK_GOES_HERE)
-- [Code Walkthrough](LINK_GOES_HERE)
+- [Progress Video (Prototype Demo)](https://youtu.be/yC9X0pXrTO4)
+- [Code Walkthrough](https://youtu.be/Tqekg90xM5w)
 
 ### GitHub Repo Contents
 
