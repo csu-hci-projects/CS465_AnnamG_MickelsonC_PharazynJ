@@ -66,7 +66,7 @@ Each trial logs the following:
 
 ### Paper (PDF)
 
-- [Download Paper (CHI LaTeX Template)](LINK_TO_PDF)
+- [Download Paper (CHI LaTeX Template)](https://www.cs.colostate.edu/~rollo/CS465.pdf)
 
 ## To Be Completed
 
